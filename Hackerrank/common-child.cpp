@@ -94,7 +94,7 @@ int commonChild(string s1, string s2)
     {
         for(int j=0; j<n2; j++)
         {
-            cout<<arr[i][j]<<" ";
+            cout<<str[i][j]<<"\t";
         }
         cout<<endl;
     }
