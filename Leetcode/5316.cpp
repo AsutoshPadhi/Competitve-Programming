@@ -1,3 +1,5 @@
+// Print words vertically
+
 #include <iostream>
 #include <vector>
 #include <string>
